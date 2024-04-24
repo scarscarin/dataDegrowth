@@ -1,6 +1,16 @@
+<html>
+<style>
+body {
+    font-family: 'Verdana', sans-serif;
+    }
+</style>
+
+# Data Degrowth
+
 Design for Data Degrowth is a method of design for digital interfaces, tools, and experiences, in which the use of a product discourages the production of (more) data.
 
 ---
+
 ## On Data Degrowth
 
 In the technological sector, there is a shared belief that every problem can virtually be solved, given an infinite amount of computational power, data, or raw material. The increasing reliance on these finite resources, though, now poses the gravest problem itself. The belief is becoming a paradox: growing (more) data is no longer sustainable. It never was. But the myth of data growth as the only possible solution makes this practice seem irreplaceable.
@@ -12,9 +22,11 @@ Degrowth, simply put, rejects a culture based on overconsumption and imagines a 
 Data Degrowth is the rehearsal of this framework in our digital realm. For a renewed set of values where less data is more. Where storage limits are approached with care, and computational resources with fear and respect. In short, Data Degrowth is a proposition to strengthen our understanding of the relationship between planetary resources and our own data habits.
 
 ---
+
 ## Principles of Design for Data Degrowth
 
 Data Degrowth questions the designs through which we interface with data, and translates principles of Degrowth into a new framework of design thinking. Needless to say, design historically deals with concepts of "constraints" and "efficiency". Here, these concepts are revisited through a political and ecological lens, with a narrow focus on data interfaces. Listed below, are some common denominators of Data Degrowth design.
+
 ### Design with Enoughness
 
 Enoughness can be described as the experience of inherent contentment, as opposed to a culture of "moreness". In fact, "more" of a resource does not directly equate to a better result. 
@@ -35,3 +47,4 @@ Human scale language models! The idea of creating a linear relationship between 
 ### Design with Locality
 
 ### Design with Temporality
+</html>
